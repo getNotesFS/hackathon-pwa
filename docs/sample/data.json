@@ -1,7 +1,7 @@
 {
     "meta": {
-        "app_id": "org.example.same.identifier.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_id": "es.espinr.comunities",
+        "app_title": "Comunidades en Oviedo",
         "version": 1,
         "updated": "2022-09-26",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/data.json",
@@ -23,37 +23,33 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "c001",
+                    "lat": "43.3614312",
+                    "lon": "-5.853033",
+                    "type": "people",
+                    "name": "Comunidad para conocerce",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://concepto.de/wp-content/uploads/2013/03/comunidad-1-800x422.jpeg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Comunidad de latinos en Oviedo para conocerce.",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
+                        "https://concepto.de/"
                     ]
                 },
                 {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "id": "c002",
+                    "lat": "43.3517466",
+                    "lon": "-5.8508175",
+                    "type": "people",
+                    "name": "Comunidad latinos para jugar partidos",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://concepto.de/wp-content/uploads/2013/03/comunidad-1-800x422.jpeg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Comunidad de latinos en Oviedo",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://concepto.de/"
                     ]
                 }
             ]
