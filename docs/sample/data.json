@@ -32,7 +32,7 @@
                         "https://concepto.de/wp-content/uploads/2013/03/comunidad-1-800x422.jpeg"
                     ],
                     "description": "Comunidad de latinos en Oviedo para conocerce.",
-                    "more": "More description, if you want",
+                    "more": "",
                     "urls": [
                         "https://concepto.de/"
                     ]
@@ -44,12 +44,12 @@
                     "type": "people",
                     "name": "Comunidad latinos para jugar partidos",
                     "images": [
-                        "https://concepto.de/wp-content/uploads/2013/03/comunidad-1-800x422.jpeg"
+                        "https://www.denia.com/wp-content/uploads/2019/10/partido-reparauto-latinos.jpg.webp"
                     ],
-                    "description": "Comunidad de latinos en Oviedo",
-                    "more": "More description, if you want",
+                    "description": "Comunidad de latinos en Oviedo para jugar partidos de fútbol.",
+                    "more": "",
                     "urls": [
-                        "https://concepto.de/"
+                        "https://www.denia.com/"
                     ]
                 }
             ]
