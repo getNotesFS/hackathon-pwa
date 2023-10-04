@@ -12,7 +12,7 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
+                    "brand": "#0865ac",
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
